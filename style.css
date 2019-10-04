@@ -1,0 +1,59 @@
+
+li {
+    margin-left: 10px;
+    border: 2px solid gray;
+}
+
+#titel_nav{
+    color: white;
+}
+
+#links{
+    background: black;
+}
+
+#nav_head{
+    padding: 10px;
+    font-size: 50px;
+    color: white;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+a{
+    font-family: 'Oswald', sans-serif;
+    text-decoration-color: white;
+    text-align: center;
+}
+
+.info_kort {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#bild {
+    max-width: 100%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#infoContent{
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
